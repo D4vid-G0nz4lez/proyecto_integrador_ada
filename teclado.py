@@ -30,4 +30,4 @@ while True:
     if key == 'n':
         number += 1
     if number == 50:
-        break    
+        break     
